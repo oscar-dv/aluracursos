@@ -1,0 +1,63 @@
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color: ivory;
+}
+
+.textoIntroducido{
+    position: relative;
+    height: 320px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 0px;
+    border-radius:10px;
+}
+
+.boton{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background:  #0A3871;;
+    color: #f1f1e7;
+    padding: 15px;
+    outline:none;
+    border: none;
+    font-size: 16px;
+    cursor:pointer;
+    border-radius:58px;
+}
+
+
+.resultado {
+    position: relative;
+    height: 320px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 10px;
+    border-radius:10px;
+    background-image: url("imagenes/Muñeco.png")
+}
+
+.botonC{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: sticky;
+    top: 20px;
+    margin-left: 80px;
+    background:  #0A3871;;
+    color: #f1f1e7;
+    padding: 15px;
+    outline:none;
+    border: none;
+    font-size: 16px;
+    cursor:pointer;
+    border-radius:58px;
+}
+
+footer{
+    margin-bottom: 5px;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
